@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-06-26 10:29+0000\n"
-"PO-Revision-Date: 2021-07-02 05:35\n"
+"PO-Revision-Date: 2021-07-02 06:38\n"
 "Last-Translator: \n"
 "Language-Team: Thai\n"
 "Language: th_TH\n"
@@ -203,7 +203,7 @@ msgstr ""
 
 #: ../src/undo/CopyUndoAction.cpp:60
 msgid "Copy page"
-msgstr ""
+msgstr "คัดลอกหน้า"
 
 #: ../src/util/PathUtil.cpp:249
 msgid "Could not create folder: {1}\n"
@@ -404,7 +404,7 @@ msgstr ""
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:33
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:420
 msgid "Draw Arrow"
-msgstr ""
+msgstr "วาดลูกศร"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:125
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:31
@@ -648,7 +648,7 @@ msgstr "ไปที่เลเยอร์บนสุด"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:23
 msgid "Graph"
-msgstr ""
+msgstr "กราฟ"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:15
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:99
@@ -676,12 +676,12 @@ msgstr "ซ่อนทั้งหมด"
 #: ../src/gui/dialog/ButtonConfigGui.cpp:85
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:410
 msgid "Highlighter"
-msgstr ""
+msgstr "ไฮไลท์"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:32
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:414
 msgid "Image"
-msgstr ""
+msgstr "รูปภาพ"
 
 #: ../src/control/XournalMain.cpp:294
 msgid "Image file successfully created"
@@ -689,7 +689,7 @@ msgstr ""
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:18
 msgid "Images"
-msgstr ""
+msgstr "รูปภาพ"
 
 #: ../src/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:58
 msgid "Insert a copy of the current layer below"
@@ -737,7 +737,7 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:250
 msgid "Layer"
-msgstr ""
+msgstr "เลเยอร์"
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:239
 msgid "Layer Combo"
@@ -749,7 +749,7 @@ msgstr ""
 
 #: ../src/control/layer/LayerController.cpp:329
 msgid "Layer {1}"
-msgstr ""
+msgstr "เลเยอร์ {1}"
 
 #: ../src/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:62
 msgid "Layerstack Preview"
@@ -769,12 +769,12 @@ msgstr "เขียวอ่อน"
 #: ../src/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:76
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:20
 msgid "Loading..."
-msgstr ""
+msgstr "กำลังโหลด..."
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:17
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:101
 msgid "Magenta"
-msgstr ""
+msgstr "สีม่วงแดง"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:367
 msgid "Manage Toolbars"
@@ -809,7 +809,7 @@ msgstr ""
 
 #: ../src/gui/dialog/ToolbarManageDialog.cpp:70
 msgid "New"
-msgstr ""
+msgstr "สร้าง"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:331
 msgid "New Xournal"
@@ -817,7 +817,7 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:381
 msgid "Next"
-msgstr ""
+msgstr "ถัดไป"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:389
 msgid "Next annotated page"
@@ -864,7 +864,7 @@ msgstr ""
 #: ../src/control/stockdlg/XojOpenDlg.cpp:12
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:332
 msgid "Open file"
-msgstr ""
+msgstr "เปิดไฟล์"
 
 #: ../src/control/RecentManager.cpp:170
 msgctxt "{1} is a URI"
@@ -908,7 +908,7 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolPageSpinner.cpp:85
 msgid "Page"
-msgstr ""
+msgstr "หน้า"
 
 #: ../src/gui/sidebar/previews/page/SidebarPreviewPages.cpp:73
 msgid "Page Preview"
@@ -937,16 +937,16 @@ msgstr ""
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:347
 #: ../src/undo/AddUndoAction.cpp:77
 msgid "Paste"
-msgstr ""
+msgstr "วาง"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:440
 msgid "Pause / Play"
-msgstr ""
+msgstr "หยุด/เล่น"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:83
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:229
 msgid "Pen"
-msgstr ""
+msgstr "ปากกา"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:19
 msgid "Plain"
@@ -964,7 +964,7 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:364
 msgid "Presentation mode"
-msgstr ""
+msgstr "โหมดการนำเสนอ"
 
 #: ../src/gui/dialog/LanguageConfigGui.cpp:68
 msgid "Previously selected language not available anymore!"
@@ -972,7 +972,7 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:334
 msgid "Print"
-msgstr ""
+msgstr "พิมพ์"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:438
 msgid "Record Audio / Stop Recording"
@@ -1051,15 +1051,15 @@ msgstr ""
 #: ../src/control/Control.cpp:2466 ../src/control/jobs/SaveJob.cpp:15
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:333
 msgid "Save"
-msgstr ""
+msgstr "เซฟ"
 
 #: ../src/control/Control.cpp:2466
 msgid "Save As..."
-msgstr ""
+msgstr "เซฟเป็น..."
 
 #: ../src/control/Control.cpp:2311 ../src/gui/dialog/PageTemplateDialog.cpp:77
 msgid "Save File"
-msgstr ""
+msgstr "เซฟไฟล์"
 
 #: ../src/control/jobs/CustomExportJob.cpp:130
 #: ../src/control/jobs/SaveJob.cpp:113
@@ -1072,11 +1072,11 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:349
 msgid "Search"
-msgstr ""
+msgstr "ค้นหา"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:434
 msgid "Select Font"
-msgstr ""
+msgstr "เลือกแบบอักษร"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:429
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:19
@@ -1165,7 +1165,7 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:68
 msgid "Show all"
-msgstr ""
+msgstr "แสดงทั้งหมด"
 
 #: ../src/gui/dialog/backgroundSelect/PdfPagesDialog.cpp:88
 msgid "Show only not used pages (one unused page)"
@@ -1501,15 +1501,15 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:371
 msgid "Zoom in"
-msgstr ""
+msgstr "ซูมเข้า"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:370
 msgid "Zoom out"
-msgstr ""
+msgstr "ซูมออก"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:373
 msgid "Zoom to 100%"
-msgstr ""
+msgstr "ซูม 100%"
 
 #: ../src/control/Control.cpp:2311 ../src/control/jobs/BaseExportJob.cpp:17
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:12
@@ -1758,7 +1758,7 @@ msgstr ""
 
 #: ../ui/settings.glade:1109
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: ../ui/images.glade:88
 msgid "<b>... or select already used Image:</b>"
@@ -1774,7 +1774,7 @@ msgstr ""
 
 #: ../ui/toolbarCustomizeDialog.glade:141
 msgid "<b>Color</b>"
-msgstr ""
+msgstr "<b>สี</b>"
 
 #: ../ui/toolbarCustomizeDialog.glade:86
 msgid "<b>Default Tools</b>"
@@ -1925,7 +1925,7 @@ msgstr ""
 
 #: ../ui/about.glade:9
 msgid "About Xournal++"
-msgstr ""
+msgstr "เกี่ยวกับ Xournal++"
 
 #: ../ui/settings.glade:4531
 msgid "Action on Tool Tap"
@@ -1990,7 +1990,7 @@ msgstr "ผู้แต่ง "
 
 #: ../ui/about.glade:211
 msgid "Authors:"
-msgstr ""
+msgstr "ผู้สร้าง:"
 
 #: ../ui/settings.glade:2134
 msgid "Autodetect"
@@ -2002,7 +2002,7 @@ msgstr ""
 
 #: ../ui/settings.glade:446
 msgid "Autosaving"
-msgstr ""
+msgstr "บันทึกอัตโนมัต"
 
 #: ../ui/settings.glade:594
 msgid "Available Placeholders"
@@ -2107,7 +2107,7 @@ msgstr ""
 
 #: ../ui/settings.glade:3083
 msgid "Cursor"
-msgstr ""
+msgstr "เคอร์เซอร์"
 
 #: ../ui/settings.glade:2828
 msgid "Cursor icon for pen"
@@ -2151,7 +2151,7 @@ msgstr ""
 
 #: ../ui/main.glade:1245
 msgid "Delete Layer"
-msgstr ""
+msgstr "ลบเลเยอร์นี้"
 
 #: ../ui/settingsButtonConfig.glade:132
 msgid "Delete stroke"
@@ -2163,7 +2163,7 @@ msgstr ""
 
 #: ../ui/settings.glade:2238
 msgid "Disable"
-msgstr ""
+msgstr "ปิดการใช้งาน"
 
 #: ../ui/settingsButtonConfig.glade:50
 msgid "Disable drawing for this device"
@@ -2175,7 +2175,7 @@ msgstr ""
 
 #: ../ui/settingsDeviceClassConfig.glade:41
 msgid "Disabled"
-msgstr ""
+msgstr "ปิดใช้งาน"
 
 #: ../ui/settings.glade:2108
 msgid "Disabling Method"
@@ -2249,7 +2249,7 @@ msgstr ""
 
 #: ../ui/settings.glade:2226
 msgid "Enable"
-msgstr ""
+msgstr "เปิดใช้งาน"
 
 #: ../ui/settings.glade:4084
 msgid "Enable  with determination radius of "
@@ -2305,11 +2305,11 @@ msgstr ""
 
 #: ../ui/exportSettings.glade:56
 msgid "Export"
-msgstr ""
+msgstr "ส่งออก"
 
 #: ../ui/main.glade:247
 msgid "Export as..."
-msgstr ""
+msgstr "ส่งออกเป็น..."
 
 #: ../ui/exportSettings.glade:367
 msgid "Export layers progressively"
@@ -2460,7 +2460,7 @@ msgstr ""
 
 #: ../ui/exportSettings.glade:145
 msgid "Image quality"
-msgstr ""
+msgstr "คุณภาพของรูปภาพ"
 
 #: ../ui/settings.glade:230
 msgid "Inertia"
@@ -2512,11 +2512,11 @@ msgstr ""
 
 #: ../ui/settings.glade:5356 ../ui/settings.glade:5404
 msgid "Language"
-msgstr ""
+msgstr "ภาษา"
 
 #: ../ui/settings.glade:5374
 msgid "Language Settings"
-msgstr ""
+msgstr "การตั้งค่าภาษา"
 
 #: ../ui/main.glade:575
 msgid "Layout"
@@ -2532,11 +2532,11 @@ msgstr ""
 
 #: ../ui/settings.glade:715
 msgid "Load / Save"
-msgstr ""
+msgstr "โหลด / เซฟ"
 
 #: ../ui/images.glade:73
 msgid "Load file"
-msgstr ""
+msgstr "โหลดไฟล์"
 
 #: ../ui/toolbarManageDialog.glade:9
 msgid "Manage Toolbar"
@@ -2569,7 +2569,7 @@ msgstr ""
 
 #: ../ui/settings.glade:1441 ../ui/settingsDeviceClassConfig.glade:42
 msgid "Mouse"
-msgstr ""
+msgstr "เม้าส์"
 
 #: ../ui/settings.glade:1410
 msgid "Mouse Buttons"
@@ -2712,7 +2712,7 @@ msgstr ""
 
 #: ../ui/main.glade:487
 msgid "Preferences"
-msgstr ""
+msgstr "การตั้งค่า"
 
 #: ../ui/settings.glade:1161
 msgid "Preprocessor"
@@ -2760,7 +2760,7 @@ msgstr ""
 
 #: ../ui/settings.glade:5131
 msgid "Recording Quality"
-msgstr ""
+msgstr "คุณภาพการบันทึก"
 
 #: ../ui/main.glade:1256
 msgid "Rename Layer"
@@ -2780,7 +2780,7 @@ msgstr ""
 
 #: ../ui/settings.glade:1392
 msgid "Right Mouse Button"
-msgstr ""
+msgstr "ปุ่มเมาส์ขวา"
 
 #: ../ui/settings.glade:4227
 msgid "Rotation snapping tolerance"
@@ -2808,15 +2808,15 @@ msgstr ""
 
 #: ../ui/settings.glade:4904
 msgid "Select Folder"
-msgstr ""
+msgstr "เลือกโฟลเดอร์"
 
 #: ../ui/images.glade:8
 msgid "Select Image"
-msgstr ""
+msgstr "เลือกรูปภาพ"
 
 #: ../ui/pdfpages.glade:8
 msgid "Select PDF Page"
-msgstr ""
+msgstr "เลือกหน้า PDF"
 
 #: ../ui/settings.glade:3362
 msgid "Select toolbar:"
@@ -3019,11 +3019,11 @@ msgstr ""
 
 #: ../ui/about.glade:101
 msgid "Version"
-msgstr ""
+msgstr "เวอร์ชั่น"
 
 #: ../ui/pluginEntry.glade:94
 msgid "Version: "
-msgstr ""
+msgstr "เวอร์ชั่น: "
 
 #: ../ui/settings.glade:3527
 msgid "View"
@@ -3045,11 +3045,11 @@ msgstr ""
 
 #: ../ui/exportSettings.glade:29
 msgid "Width"
-msgstr ""
+msgstr "ความกว้าง"
 
 #: ../ui/pagesize.glade:189
 msgid "Width:"
-msgstr ""
+msgstr "ความกว้าง:"
 
 #: ../ui/about.glade:258
 msgid "With help from the community"
@@ -3065,7 +3065,7 @@ msgstr ""
 
 #: ../ui/settings.glade:3815
 msgid "Zoom"
-msgstr ""
+msgstr "ซูม"
 
 #: ../ui/settings.glade:2451
 msgid "Zoom Gestures"
@@ -3345,13 +3345,13 @@ msgstr ""
 
 #: ../ui/settings.glade:416
 msgid "minutes"
-msgstr ""
+msgstr "นาที"
 
 #: ../ui/settings.glade:2930 ../ui/settings.glade:2981
 #: ../ui/settings.glade:3957 ../ui/settings.glade:3968
 #: ../ui/settings.glade:4124
 msgid "pixels"
-msgstr ""
+msgstr "พิกเซล"
 
 #: ../ui/settings.glade:2163
 msgid "s <i>(after which the touchscreen will be reactivated again)</i>"
