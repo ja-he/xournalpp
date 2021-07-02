@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-06-26 10:29+0000\n"
-"PO-Revision-Date: 2021-06-27 04:06\n"
+"PO-Revision-Date: 2021-07-02 05:35\n"
 "Last-Translator: \n"
 "Language-Team: Thai\n"
 "Language: th_TH\n"
@@ -25,7 +25,8 @@ msgstr ""
 #: ../src/control/jobs/BaseExportJob.cpp:46
 msgid "\n"
 " Do you want to continue?"
-msgstr ""
+msgstr "\n"
+"คุณต้องการดำเนินการต่อใช่หรือไม่"
 
 #: ../src/control/XournalMain.cpp:450
 msgid "\n"
@@ -35,7 +36,7 @@ msgstr ""
 #: ../src/gui/toolbarMenubar/ToolPageSpinner.cpp:36
 msgctxt "Page {pagenumber} \"of {pagecount}\""
 msgid " of {1}"
-msgstr ""
+msgstr " จาก {1}"
 
 #: ../src/control/settings/Settings.cpp:111
 msgid "%F-Note-%H-%M"
@@ -305,7 +306,7 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:79
 msgid "Create new layer"
-msgstr ""
+msgstr "สร้างเลเยอร์ใหม่"
 
 #: ../src/gui/dialog/FormatDialog.cpp:67
 msgid "Custom"
@@ -542,7 +543,7 @@ msgstr ""
 
 #: ../src/control/jobs/BaseExportJob.cpp:16
 msgid "Export PDF"
-msgstr ""
+msgstr "ส่งออกเป็น PDF"
 
 #: ../src/control/XournalMain.cpp:656
 msgid "Export layers progressively\n"
@@ -623,19 +624,19 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:378
 msgid "Go to first page"
-msgstr ""
+msgstr "ไปยังหน้าแรก"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:382
 msgid "Go to last page"
-msgstr ""
+msgstr "ไปที่หน้าสุดท้าย"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:385
 msgid "Go to next layer"
-msgstr ""
+msgstr "ไปที่เลเยอร์ต่อไป"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:380
 msgid "Go to page"
-msgstr ""
+msgstr "ไปที่หน้าต่อไป"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:384
 msgid "Go to previous layer"
@@ -643,7 +644,7 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:386
 msgid "Go to top layer"
-msgstr ""
+msgstr "ไปที่เลเยอร์บนสุด"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:23
 msgid "Graph"
@@ -652,12 +653,12 @@ msgstr ""
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:15
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:99
 msgid "Gray"
-msgstr ""
+msgstr "สีเทา"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:11
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:95
 msgid "Green"
-msgstr ""
+msgstr "สีเขียว"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:356
 msgid "Grid Snapping"
