@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-06-26 10:29+0000\n"
-"PO-Revision-Date: 2021-07-02 06:38\n"
+"PO-Revision-Date: 2021-07-02 07:34\n"
 "Last-Translator: \n"
 "Language-Team: Thai\n"
 "Language: th_TH\n"
@@ -1530,7 +1530,7 @@ msgstr ""
 
 #: ../src/util/DeviceListHelper.cpp:111
 msgid "cursor"
-msgstr ""
+msgstr "เคอร์เซอร์"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:237
 msgid "dash-/ dotted"
@@ -1570,11 +1570,11 @@ msgstr ""
 
 #: ../src/undo/AddUndoAction.cpp:97 ../src/undo/DeleteUndoAction.cpp:94
 msgid "image"
-msgstr ""
+msgstr "รูปภาพ"
 
 #: ../src/util/DeviceListHelper.cpp:114
 msgid "keyboard"
-msgstr ""
+msgstr "คีย์บอร์ด"
 
 #: ../src/undo/AddUndoAction.cpp:100 ../src/undo/DeleteUndoAction.cpp:97
 msgid "latex"
@@ -1590,7 +1590,7 @@ msgstr "ปากกา"
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:158
 msgid "show"
-msgstr ""
+msgstr "แสดง"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:231
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:250
@@ -2378,11 +2378,11 @@ msgstr ""
 
 #: ../ui/goto.glade:14
 msgid "Go to Page"
-msgstr ""
+msgstr "ไปที่หน้า"
 
 #: ../ui/settings.glade:4283
 msgid "Grid size"
-msgstr ""
+msgstr "ขนาดตาราง"
 
 #: ../ui/settings.glade:4240
 msgid "Grid snapping tolerance"
@@ -2398,19 +2398,19 @@ msgstr ""
 
 #: ../ui/exportSettings.glade:32
 msgid "Height"
-msgstr ""
+msgstr "ความสูง"
 
 #: ../ui/pagesize.glade:212
 msgid "Height:"
-msgstr ""
+msgstr "ความสูง:"
 
 #: ../ui/main.glade:951 ../ui/settings.glade:3258 ../ui/settings.glade:3325
 msgid "Hide Menubar"
-msgstr ""
+msgstr "ซ่อนแถบเมนู"
 
 #: ../ui/settings.glade:3274 ../ui/settings.glade:3341
 msgid "Hide Sidebar"
-msgstr ""
+msgstr "ซ่อนแถบด้านข้าง"
 
 #: ../ui/settings.glade:3179
 msgid "Hide the horizontal scrollbar"
@@ -2468,11 +2468,11 @@ msgstr ""
 
 #: ../ui/settings.glade:4980
 msgid "Input Device"
-msgstr ""
+msgstr "อุปกรณ์อินพุต"
 
 #: ../ui/settings.glade:801
 msgid "Input Devices"
-msgstr ""
+msgstr "อุปกรณ์อินพุต"
 
 #: ../ui/settings.glade:1265
 msgid "Input System"
@@ -2776,7 +2776,7 @@ msgstr ""
 
 #: ../ui/exportSettings.glade:26
 msgid "Resolution"
-msgstr ""
+msgstr "ความละเอียดหน้าจอ"
 
 #: ../ui/settings.glade:1392
 msgid "Right Mouse Button"
@@ -2848,7 +2848,7 @@ msgstr ""
 
 #: ../ui/settings.glade:4499
 msgid "Settings:"
-msgstr ""
+msgstr "การตั้งค่า:"
 
 #: ../ui/settings.glade:4508
 msgid "Show Floating Toolbox"
@@ -2910,11 +2910,11 @@ msgstr ""
 
 #: ../ui/settings.glade:1947
 msgid "Stylus"
-msgstr ""
+msgstr "ปากกาสไตลัส"
 
 #: ../ui/settings.glade:1916
 msgid "Stylus Buttons"
-msgstr ""
+msgstr "ปุ่มปากกาสไตลัส"
 
 #: ../ui/settings.glade:4447
 msgid "Successive (ms)"
@@ -2930,7 +2930,7 @@ msgstr ""
 
 #: ../ui/pagesize.glade:101
 msgid "Template:"
-msgstr ""
+msgstr "เทมเพลต:"
 
 #: ../ui/settings.glade:2271 ../ui/settings.glade:2284
 msgid "Test"
